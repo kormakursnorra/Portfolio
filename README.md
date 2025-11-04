@@ -1,2 +1,2 @@
 # Portfolio
-Personal Portfolio website that highlights my projects, achievements and work experiences 
+This is my personal portfolio that highlights the projects I've built, achievements, work experiences and more.
